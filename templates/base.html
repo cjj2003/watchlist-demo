@@ -1,5 +1,9 @@
 <!DOCTYPE	html>
 <html	lang="en">
+<!--	插入到页面标题上方	-->
+{%	for	message	in	get_flashed_messages()	%}
+	<div class="alert">{{	message	}}</div>
+{%	endfor	%}
 <head>
 				{%	block	head	%}
 				<meta	charset="utf-8">
@@ -13,24 +17,29 @@
 
 
 <body>
-				<h2>
+
+
+
+<h2>
 					<img	alt="Avatar"	class="avatar"
 							src="{{	url_for('static',	filename='images/avatar.png')	}}">
 						{{	user.name	}}'s	Watchlist
-				</h2>
-				<nav>
-								<ul>
-												<li><a	href="{{	url_for('index')	}}">Home</a></li>
-								</ul>
-				</nav>
-				{%	block	content	%}
+</h2>
+		<nav>
+				<ul>
+					<li><a	href="{{	url_for('index')	}}">Home</a></li>
+				</ul>
+		</nav>
+		{%	block	content	%}
 
 
-                {%	endblock	%}
-		<footer>
+         {%	endblock	%}
+
+
+	<footer>
 				<small>&copy;	2018	<a	href="http://helloflask.com/tutorial">HelloFlask</a></small>
 			<p></p>
 			<small>&copy;	2022	<a	href="https://github.com/cjj2003/watchlist-demo"</a> Watchlist Demo </small>
-		</footer>
+	</footer>
 </body>
 </html>
