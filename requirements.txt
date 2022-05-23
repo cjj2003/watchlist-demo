@@ -2,3 +2,5 @@
 -i https://pypi.douban.com/simple
 flask
 python-dotenv
+flask-sqlalchemy
+bootstrap-flask
