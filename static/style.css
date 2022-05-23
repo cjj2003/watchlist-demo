@@ -2,7 +2,12 @@
 body	{
 				margin:	auto;
 				max-width:	580px;
-				font-size:	24px;
+				font-size:	16px;
+				font-family:	Helvetica,	Arial,	sans-serif;
+}
+
+.input	{
+				font-size:	16px;
 				font-family:	Helvetica,	Arial,	sans-serif;
 }
 /*	页脚	*/

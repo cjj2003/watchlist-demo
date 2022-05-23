@@ -3,12 +3,17 @@
 {%	block	content	%}
 <p>{{	movies|length	}}	Titles</p>
 
+<!--	在模板中可以直接使用	current_user	变量	-->
+{%	if	current_user.is_authenticated	%}
 <form	method="post">
-				Name	<input	type="text"	name="title"	autocomplete="off"	required>
+				Name	<input	type="text"	name="title"	autocomplete="off"	required>&ensp;&ensp;
 				Year	<input	type="text"	name="year"	autocomplete="off"	required>
-				&ensp;&ensp;&ensp;<input	class="btn"	type="submit"	name="submit"	value="Add">
+				&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+						<input	class="btn"	type="submit"	name="submit"	value="Add">
 </form>
-<p> ------------------------------------------------------------</p>
+{% endif %}
+
+<p> ---------------------------------------------------------------------------------------------</p>
 <ul	class="movie-list">
 	{%	for	movie	in	movies	%}
 	<li>{{	movie.title	}}	-	{{	movie.year	}}

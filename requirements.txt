@@ -4,3 +4,4 @@ flask
 python-dotenv
 flask-sqlalchemy
 bootstrap-flask
+flask-login

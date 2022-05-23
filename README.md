@@ -24,3 +24,4 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 # A watchlist demo to learn Flask web dev following Grey Li's tutorial
 
 
+demo: admin/pass
