@@ -1,0 +1,4 @@
+# watchlist-demo
+-i https://pypi.douban.com/simple
+flask
+python-dotenv
