@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 import unittest
 
-from app import Movie, User
-from app import app, db
+from watchlist import app, db
+from watchlist.models import Movie, User
+from watchlist.commands import forge, initdb
 
 
 # from watchlist.commands import forge, initdb
