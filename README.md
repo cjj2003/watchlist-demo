@@ -25,7 +25,7 @@ $ flask run
 * Running on http://127.0.0.1:5000/
 ```
 
-## Access the dmeo site
+## Access the demo
 Use the browser to access http://localhost:5000, the default access: admin/pass.
 
 ## License
