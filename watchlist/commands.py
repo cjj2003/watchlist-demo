@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import click
 
-from watchlist-demo import app, db
+from watchlist import app, db
 from watchlist.models import User, Movie
 
 
