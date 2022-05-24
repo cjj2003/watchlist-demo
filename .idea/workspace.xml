@@ -28,13 +28,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\luo.guangsheng\Downloads\PortableGit\projects\watchlist\templates" />
       <recent name="C:\Users\luo.guangsheng\Downloads\PortableGit\projects\watchlist" />
+      <recent name="C:\Users\luo.guangsheng\Downloads\PortableGit\projects\watchlist\templates" />
     </key>
   </component>
   <component name="RunManager">
@@ -83,36 +83,33 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1054" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1653270119326" />
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1653310885031">
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1653361585053">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1653310885031" />
-    <state width="2539" height="401" key="GridCell.Tab.0.center" timestamp="1653310885031">
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1653361585053" />
+    <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1653361884140">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1653310885031" />
-    <state width="2539" height="401" key="GridCell.Tab.0.left" timestamp="1653310885031">
+    <state width="2539" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1653361884140" />
+    <state width="2539" height="401" key="GridCell.Tab.0.center" timestamp="1653361884139">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1653310885031" />
-    <state width="2539" height="401" key="GridCell.Tab.0.right" timestamp="1653310885031">
+    <state width="2539" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1653361884139" />
+    <state width="2539" height="401" key="GridCell.Tab.0.left" timestamp="1653361884139">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2539" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1653310885031" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1653268471134">
+    <state width="2539" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1653361884139" />
+    <state width="2539" height="401" key="GridCell.Tab.0.right" timestamp="1653361884139">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1653268471134" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/app.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="2539" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1653361884139" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1653361636977">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1653361636977" />
+    <state x="1072" y="558" key="scopes" timestamp="1653361617555">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1072" y="558" key="scopes/0.0.2560.1400@0.0.2560.1400" timestamp="1653361617555" />
   </component>
 </project>
