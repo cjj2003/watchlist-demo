@@ -1,7 +1,7 @@
 # Watchlist
 
 A watchlist demo to learn Flask web dev by following Grey Li's tutorial
-[Index page](https://github.com/cjj2003/watchlist-demo/blob/main/watchlist/static/images/index.png)
+![image](https://github.com/cjj2003/watchlist-demo/blob/main/watchlist/static/images/index.png)
 
 
 ## Installation
